@@ -1,5 +1,5 @@
 {
-  "name": "tckt-common",
+  "name": "@whispernet-sust/ticket-common",
   "version": "1.0.2",
   "description": "Common modules for ticketing microservices project",
   "main": "./build/index.js",
