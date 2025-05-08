@@ -1,6 +1,6 @@
 {
   "name": "tckt-common",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Common modules for ticketing microservices project",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
